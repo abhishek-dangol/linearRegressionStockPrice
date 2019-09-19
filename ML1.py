@@ -11,7 +11,7 @@ from matplotlib import style
 import pickle ## to save the classifier
 
 
-quandl.ApiConfig.api_key = "SHs9BegRznDTVE5xLFj1" ###sign up for free quandl account to get this API key
+quandl.ApiConfig.api_key = "your quandl api key" ###sign up for free quandl account to get this API key
 
 style.use('ggplot')
 
